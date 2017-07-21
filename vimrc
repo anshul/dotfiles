@@ -124,6 +124,8 @@ Plug 'mxw/vim-jsx'
 let g:jsx_ext_required = 0
 Plug 'othree/html5.vim'
 Plug 'gorodinskiy/vim-coloresque'
+Plug 'fleischie/vim-styled-components'
+
 
 
 
